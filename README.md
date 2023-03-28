@@ -40,3 +40,6 @@ Er is ook een OnCollisionEnter function. Het script kijkt dan tegen wat er gebot
 
 Er is ook een OnTriggerEnter function. Deze is gemaakt om te kijken of de agent over de slechte obstakels is gesprongen. Er is een invisible muur gemaakt als trigger achter de barrel om te kijken of de agent er over is. Met als uitkomst een reward uiteraard.
 
+## Training
+
+![Training](./training.png)
